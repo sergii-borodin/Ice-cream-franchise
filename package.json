@@ -1,8 +1,8 @@
 {
-  "name": "itcats",
+  "name": "Ice-cream-franchise",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://xxAmnesiAxxтьз.github.io/itcats",
+  "homepage": "https://sergii-borodin.github.io/Ice-cream-franchise/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /itcats/"
